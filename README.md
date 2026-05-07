@@ -1,7 +1,7 @@
 <div align=center>
 <img src="image/detectrl-svg.svg" width="200px">
 </div>
-<h2 align="center"> <a href="https://arxiv.org/abs/2406.18522">[NeurIPS D&B 2024] DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios </a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2410.23746">[NeurIPS D&B 2024] DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios </a></h2>
 
 <h5 align="center"> 
 
